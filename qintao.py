@@ -14,4 +14,4 @@ def saveImgs(imgURLlist, name):
 
 
 html = getHtml("http://tieba.baidu.com/p/4939865204")	
-dd
+dddd
